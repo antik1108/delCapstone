@@ -5,6 +5,11 @@
     padding: 0;  
 }  
 
+
+
+
+
+
 .bebas-neue-regular {
     font-family: "Bebas Neue", serif;
     font-weight: 400;
@@ -32,6 +37,10 @@ header {
     
 }
 
+
+
+
+
 .header-container {
     cursor:pointer;
     display: flex;
@@ -48,6 +57,8 @@ header {
     cursor: pointer;
     
 }
+
+
 
 nav ul {
     list-style: none;
@@ -66,6 +77,7 @@ nav ul li a {
 nav ul li a:hover {
     opacity: 0.7;
 }
+
 
 .header-container h1 {
     font-family:  "Bebas Neue", serif;
